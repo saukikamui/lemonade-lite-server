@@ -1,0 +1,15 @@
+{
+  "name": "lemonade-lite-server",
+  "version": "1.0.0",
+  "description": "Server jembatan Roblox + Anthropic AI untuk Lemonade Lite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
